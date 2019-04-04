@@ -1,0 +1,43 @@
+* {
+	box-sizing: border-box;
+	background-color: #FBF159;
+}
+
+.header {
+	text-align: center;
+}
+
+.row {
+	display: flex;
+	justify-content: center;
+}
+
+.column {
+	flex: 50%;
+	text-align: center;
+}
+
+img {
+	max-width: 100%;
+	width: 300px;
+	height: 400px;
+}
+
+#div1 {
+	text-align: center;
+	font-size: 24px;
+}
+
+.start {
+	text-align: center;
+	padding: 40px;
+}
+
+.start input {
+	font-size: 20px;
+	padding: 30px;
+	background-color: black;
+	color: white;
+	border-radius: 5%;
+}
+
