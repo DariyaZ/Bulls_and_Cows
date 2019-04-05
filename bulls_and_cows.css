@@ -41,3 +41,15 @@ img {
 	border-radius: 5%;
 }
 
+#image {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#image button {
+	padding: 10px;
+	margin: 20px;
+	background-color: white;
+}
+
